@@ -13,6 +13,13 @@ var restartBtn = document.getElementById("restart");
 var winPopup = document.getElementById("win-popup");
 var winMessage = document.getElementById("win-message");
 var closePopupBtn = document.getElementById("close-popup");
+var leaderboardList = document.getElementById("leaderboard");
+// Name popup
+var namePopup = document.getElementById("name-popup");
+var nameInput = document.getElementById("name-input");
+var startGameBtn = document.getElementById("start-game");
+var playerNameSpan = document.getElementById("player-name");
+var playerName = "";
 var moves = 0;
 var firstCard = null;
 var secondCard = null;
@@ -20,6 +27,7 @@ var lockBoard = false;
 var matchedPairs = 0;
 var icons = ["🍎", "🍌", "🍇", "🍓", "🍍", "🥝", "🍉", "🍑"];
 var cards = [];
+// ---------------- GAME INIT ----------------
 function initGame() {
     moves = 0;
     matchedPairs = 0;
@@ -57,7 +65,7 @@ function checkMatch() {
         matchedPairs++;
         resetTurn();
         if (matchedPairs === icons.length) {
-            setTimeout(showWinPopup, 500);
+            setTimeout(handleWin, 500);
         }
     }
     else {
@@ -75,10 +83,41 @@ function resetTurn() {
     var _a;
     _a = [null, null, false], firstCard = _a[0], secondCard = _a[1], lockBoard = _a[2];
 }
-function showWinPopup() {
-    winMessage.textContent = "\uD83C\uDF89 You Won in ".concat(moves, " moves! \uD83C\uDF89");
+// ---------------- LEADERBOARD ----------------
+function updateLeaderboard() {
+    var scores = JSON.parse(localStorage.getItem("leaderboard") || "[]");
+    scores.sort(function (a, b) { return a.moves - b.moves; });
+    var top5 = scores.slice(0, 5);
+    leaderboardList.innerHTML = "";
+    top5.forEach(function (entry, index) {
+        var li = document.createElement("li");
+        li.textContent = "".concat(entry.name, " - ").concat(entry.moves, " moves");
+        leaderboardList.appendChild(li);
+    });
+}
+function handleWin() {
+    winMessage.textContent = "".concat(playerName, ", you won in ").concat(moves, " moves!");
+    // Save score
+    var scores = JSON.parse(localStorage.getItem("leaderboard") || "[]");
+    scores.push({ name: playerName, moves: moves });
+    localStorage.setItem("leaderboard", JSON.stringify(scores));
+    updateLeaderboard();
     winPopup.style.display = "flex";
 }
+// ---------------- EVENTS ----------------
 restartBtn.addEventListener("click", initGame);
 closePopupBtn.addEventListener("click", initGame);
-initGame();
+startGameBtn.addEventListener("click", function () {
+    var name = nameInput.value.trim();
+    if (name === "")
+        return alert("Please enter your name!");
+    playerName = name;
+    playerNameSpan.textContent = playerName;
+    namePopup.style.display = "none";
+    initGame();
+});
+// Always show name popup on load
+window.onload = function () {
+    namePopup.style.display = "flex";
+    updateLeaderboard(); // ✅ load leaderboard immediately
+};

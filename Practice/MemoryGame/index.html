@@ -9,19 +9,37 @@
 <body>
   <h1>Memory Card Game</h1>
   <button id="restart">Restart Game</button>
-  <p>Moves: <span id="moves">0</span></p>
+  <p>Player: <span id="player-name"></span> | Moves: <span id="moves">0</span></p>
   
   <div id="game-board" class="board"></div>
+
+  <!-- Name Prompt Popup -->
+  <div id="name-popup" class="popup">
+    <div class="popup-content">
+      <h2>Enter Your Name</h2>
+      <input type="text" id="name-input" placeholder="Your name">
+      <button id="start-game">Start Game</button>
+    </div>
+  </div>
 
   <!-- Win Popup -->
   <div id="win-popup" class="popup">
     <div class="popup-content">
-      <h2>Congratulations!</h2>
+      <h2>🎉 Congratulations! 🎉</h2>
       <p id="win-message"></p>
+
       <button id="close-popup">Play Again</button>
     </div>
   </div>
-  <h1>Developed by Adhnan Jeff</h1>
+
+  <h2>Developed by Adhnan Jeff</h2>
+  <footer>
+    <!-- 👇 Leaderboard moved outside popup -->
+    <div id="leaderboard">
+      <h3>🏆 Leaderboard</h3>
+      <ol id="leaderboardList"></ol>
+    </div>
+  </footer>
 
   <script src="app.js"></script>
 </body>
