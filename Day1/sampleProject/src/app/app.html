@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./app.css">
+</head>
+<body>
+  <header>
+    <h1>{{ title() }}</h1>
+  </header>
+  <nav>
+    <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a> |
+    <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a> |
+    <a routerLink="/bugs" routerLinkActive="active">Bugs</a> |
+    <a routerLink="/login" routerLinkActive="active">Login</a>
+  </nav>
+
+  <hr />
+
+  <!-- Route content will appear here -->
+  <router-outlet></router-outlet>
+
+</body>
+</html>
