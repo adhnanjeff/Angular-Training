@@ -1,0 +1,26 @@
+<header>
+  <div class="container">
+    <h2 class="logo">Adhnan Jeff</h2>
+    <nav>
+      <a routerLink="/home" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+      <a routerLink="/about" routerLinkActive="active">About</a>
+      <a routerLink="/projects" routerLinkActive="active">Projects</a>
+      <a routerLink="/contact" routerLinkActive="active">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<router-outlet></router-outlet>
+
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <p>&copy; 2025 Adhnan Jeff. All Rights Reserved.</p>
+      <div class="footer-links">
+        <a href="mailto:adhnan.jeff@example.com">Email</a>
+        <a href="https://linkedin.com/in/adhnan-jeff" target="_blank">LinkedIn</a>
+        <a href="https://github.com/adhnanjeff" target="_blank">GitHub</a>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,90 @@
+/* Contact Section */
+.contact {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px; /* offset for fixed navbar */
+}
+
+.contact-container {
+  max-width: 600px;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.contact-container h1 span {
+  color: #3c92e7;
+}
+
+.contact-container p {
+  margin-bottom: 30px;
+  color: #ccc;
+  line-height: 1.6;
+}
+
+/* Contact Form */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #3c92e7;
+  border-radius: 8px;
+  background: transparent;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: #aaa;
+}
+
+/* Button (already styled in your global css) */
+.btn {
+  padding: 12px 25px;
+  border: 2px solid #3c92e7;
+  background: transparent;
+  color: #3c92e7;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #3c92e7;
+  color: #fff;
+}
+
+/* Fade-in Animation (reuse same as home) */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.delay-1 { animation-delay: 0.2s; }
+.delay-2 { animation-delay: 0.4s; }
+.delay-3 { animation-delay: 0.6s; }
+.delay-4 { animation-delay: 0.8s; }
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

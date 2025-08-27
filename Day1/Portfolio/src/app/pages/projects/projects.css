@@ -1,0 +1,212 @@
+.projects {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  padding: 120px 0 60px 0;
+  width: 100%;
+}
+
+.projects h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 60px;
+  color: #fff;
+  z-index: 10;
+  position: relative;
+}
+
+.projects h2 span {
+  color: #0078ff;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Timeline Container */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+/* Timeline Line */
+.timeline-line {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: linear-gradient(to bottom, #0078ff, #3c92e7);
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+/* Timeline Items */
+.timeline-item {
+  position: relative;
+  margin-bottom: 60px;
+  width: 100%;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+/* Timeline Dots */
+.timeline-dot {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  width: 20px;
+  height: 20px;
+  background: #0078ff;
+  border: 4px solid #000;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  box-shadow: 0 0 0 4px rgba(0, 120, 255, 0.2);
+}
+
+/* Project Cards */
+.project-card {
+  width: 45%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  will-change: opacity, transform;
+}
+
+.project-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 16px 48px rgba(0,0,0,0.4), 0 0 30px rgba(0, 120, 255, 0.2);
+  border-color: rgba(0, 120, 255, 0.3);
+}
+
+/* Left Side Projects */
+.timeline-item.left .project-card {
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.timeline-item.left .timeline-dot {
+  left: 55%;
+}
+
+/* Right Side Projects */
+.timeline-item.right .project-card {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.timeline-item.right .timeline-dot {
+  left: 45%;
+}
+
+/* Project Content */
+.project-content h3 {
+  color: #0078ff;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.project-content p {
+  color: #ccc;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+/* Technology Tags */
+.project-tech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.tech-tag {
+  background: rgba(0, 120, 255, 0.1);
+  color: #0078ff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border: 1px solid rgba(0, 120, 255, 0.2);
+}
+
+/* Project Links */
+.project-links {
+  display: flex;
+  gap: 15px;
+}
+
+.project-link {
+  color: #0078ff;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid #0078ff;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.project-link:hover {
+  background: #0078ff;
+  color: #000;
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .timeline-line {
+    left: 30px;
+  }
+  
+  .timeline-item.left .project-card,
+  .timeline-item.right .project-card {
+    width: calc(100% - 80px);
+    margin-left: 80px;
+  }
+  
+  .timeline-item.left .timeline-dot,
+  .timeline-item.right .timeline-dot {
+    left: 30px;
+  }
+  
+  .projects h2 {
+    font-size: 2rem;
+  }
+  
+  .project-card {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .timeline-item.left .project-card,
+  .timeline-item.right .project-card {
+    width: calc(100% - 60px);
+    margin-left: 60px;
+  }
+  
+  .timeline-item.left .timeline-dot,
+  .timeline-item.right .timeline-dot {
+    left: 20px;
+  }
+  
+  .project-links {
+    flex-direction: column;
+  }
+}

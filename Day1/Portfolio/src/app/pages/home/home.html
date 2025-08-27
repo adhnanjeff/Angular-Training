@@ -1,0 +1,22 @@
+
+  <section class="hero fade-in">
+    <div class="hero-content">
+      <div class="hero-left">
+        <img src="muzan.jpg" alt="Profile" appTilt [tiltMax]="15" [tiltScale]="1.03" />
+      </div>
+      <div class="hero-right">
+        <h1>Hi, It's <span>Adhnan Jeff</span></h1>
+        <h2>I'm a <span class="dynamic-text" [class.changing]="isChanging()">{{ currentRole }}</span></h2>
+        <p>
+          Full-stack enthusiast focused on creating scalable, efficient, and impactful web solutions.
+        </p>
+        <div class="social-icons">
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          <a href="#"><i class="fab fa-github"></i></a>
+          <a href="#"><i class="fab fa-x-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+        <button class="btn" routerLink="/about">About Me</button>
+      </div>
+    </div>
+  </section>
