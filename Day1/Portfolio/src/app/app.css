@@ -72,6 +72,36 @@ nav a {
   overflow: hidden;
 }
 
+/* Default nav link color */
+nav a {
+  color: #3c92e7;
+}
+
+/* 🔴 When About page is active */
+nav.about-active a {
+  color: rgb(255, 0, 0) !important;
+}
+
+.logo.about-active {
+  color: rgb(255, 0, 0) !important;
+}
+
+
+/* When About page is active, change ALL nav links */
+nav.about-active a.active, a.hover { 
+  color: rgb(255, 0, 0);
+}
+
+/* Still allow hover/active underline effect */
+nav.about-active a::after {
+  background: rgb(255, 0, 0);
+}
+
+nav .about-active .logo.about-active {
+  background: rgb(255, 0, 0);
+}
+
+
 nav a::after {
   content: '';
   position: absolute;

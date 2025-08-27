@@ -31,7 +31,7 @@
 }
 
 .about-left h2 span {
-  color: #0078ff;
+  color: #f53838;
 }
 
 .about-left ul {
@@ -48,9 +48,9 @@
 }
 
 .about-left .grade {
-  color: #0078ff;
+  color: #f53838;
   font-weight: 600;
-  background: rgba(0, 120, 255, 0.1);
+  background: rgba(255, 0, 0, 0.3);
   padding: 4px 8px;
   border-radius: 6px;
   font-size: 0.9rem;
@@ -74,7 +74,7 @@
 }
 
 .about-right img:hover {
-  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(0, 120, 255, 0.3);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(255, 0, 0, 0.3);
 }
 
 /* Skills Section */
@@ -91,7 +91,7 @@
 .skills hr {
   width: 80px;
   margin: 10px auto 30px;
-  border: 2px solid #0078ff;
+  border: 2px solid #f53838;
   border-radius: 5px;
 }
 
@@ -113,11 +113,11 @@
 }
 
 .skill:hover {
-  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(0, 120, 255, 0.3);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(255, 0, 0, 0.3);
 }
 
 .skill h2 {
-  color: #0078ff;
+  color: #f53838;
   margin-bottom: 15px;
   font-size: 1.2rem;
 }
@@ -178,4 +178,19 @@
   .skills h1 {
     font-size: 1.6rem;
   }
+}
+
+/*
+  The following styles will apply ONLY when the About page is active.
+  It targets the navbar elements to change their color.
+
+  NOTE: This uses `::ng-deep` to style elements outside of this component's view.
+  This is often needed for page-specific navbar styles. You may need to adjust
+  the selectors (e.g., `.navbar .logo`, `.navbar .nav-link`) to match your
+  navbar's HTML structure.
+*/
+:host ::ng-deep .navbar .logo,
+:host ::ng-deep .navbar .nav-link {
+  color: rgba(255, 0, 0, 0.3) !important;
+  transition: color 0.3s ease; /* Optional: for a smooth color transition */
 }

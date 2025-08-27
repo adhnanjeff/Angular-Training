@@ -1,15 +1,22 @@
 import { CommonModule } from '@angular/common';
-import { Component, signal } from '@angular/core';
-import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
+import { Component } from '@angular/core';
+import { Router, NavigationEnd, RouterLink } from '@angular/router';
+import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [RouterOutlet, CommonModule, RouterLink, RouterLinkActive],
+  imports: [RouterLink, RouterLink, CommonModule, RouterOutlet],
   templateUrl: './app.html',
   styleUrls: ['./app.css']
 })
+export class AppComponent {
+  isAboutActive = false;
 
-export class App {
-  protected readonly title = signal('Portfolio');
+  constructor(private router: Router) {
+    this.router.events.subscribe(event => {
+      if (event instanceof NavigationEnd) {
+        this.isAboutActive = event.urlAfterRedirects.includes('/about');
+      }
+    });
+  }
 }

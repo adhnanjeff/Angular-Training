@@ -1,8 +1,11 @@
 <header>
   <div class="container">
-    <h2 class="logo">Adhnan Jeff</h2>
-    <nav>
-      <a routerLink="/home" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+    <!-- ✅ Add conditional class for About page -->
+    <h2 class="logo" [class.about-active]="isAboutActive">Adhnan Jeff</h2>
+
+    <!-- ✅ Add conditional class for About page -->
+    <nav [class.about-active]="isAboutActive">
+      <a routerLink="/home" routerLinkActive="active">Home</a>
       <a routerLink="/about" routerLinkActive="active">About</a>
       <a routerLink="/projects" routerLinkActive="active">Projects</a>
       <a routerLink="/contact" routerLinkActive="active">Contact</a>
@@ -18,8 +21,8 @@
       <p>&copy; 2025 Adhnan Jeff. All Rights Reserved.</p>
       <div class="footer-links">
         <a href="mailto:adhnan.jeff@example.com">Email</a>
-        <a href="https://linkedin.com/in/adhnan-jeff" target="_blank">LinkedIn</a>
-        <a href="https://github.com/adhnanjeff" target="_blank">GitHub</a>
+        <a href="https://linkedin.com/in/adhnan-jeff" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://github.com/adhnanjeff" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </div>
   </div>
