@@ -34,7 +34,7 @@ export class AppComponent {
     },
     {
       label: 'Bugs',
-      icon: 'pi pi-fw pi-info-circle',
+      icon: 'bi bi-bug',
       routerLink: '/bugs'
     },
     {
