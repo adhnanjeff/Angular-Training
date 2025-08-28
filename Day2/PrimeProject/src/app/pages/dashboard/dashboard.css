@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+p {
+  color: #666;
+  line-height: 1.6;
+}
