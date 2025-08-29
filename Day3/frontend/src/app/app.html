@@ -1,0 +1,69 @@
+<hr />
+
+<p-menubar [model]="menuItems">
+  <!-- Start slot -->
+  <ng-template pTemplate="start">
+    <h2 style="margin: 0;">{{ title() }}</h2>
+  </ng-template>
+
+  <!-- Sidebar toggle button -->
+  <button 
+    pButton 
+    type="button" 
+    icon="pi pi-bars" 
+    (click)="sidebarVisible = true" 
+    class="p-button-rounded p-button-outlined">
+  </button>
+
+  <!-- End slot -->
+  <ng-template pTemplate="end">
+    <button 
+      pButton 
+      type="button" 
+      icon="pi pi-user" 
+      class="p-button-rounded p-button-outlined">
+    </button>
+  </ng-template>
+</p-menubar>
+
+<!-- Sidebar Drawer -->
+<p-drawer 
+  [(visible)]="sidebarVisible"
+  position="left"
+  [modal]="true"
+  [showCloseIcon]="true"
+  [baseZIndex]="10000"
+  [style]="{ width: '250px' }">
+
+  <h3 style="margin: 10px;">Sidebar</h3>
+  <p>Sidebar content goes here.</p>
+
+  <ul>
+    @for (item of menuItems; track item.label) {
+      <li>
+        <a 
+          [routerLink]="item.routerLink" 
+          routerLinkActive="active" 
+          [routerLinkActiveOptions]="{ exact: true }"
+          (click)="sidebarVisible = false">
+          <!-- Icon + Label -->
+          <i *ngIf="item.icon" [class]="item.icon" style="margin-right:6px;"></i>
+          {{ item.label }}
+        </a>
+      </li>
+    } @empty {
+      <li>No menu items available</li>
+    }
+  </ul>
+</p-drawer>
+
+<!-- Main Content -->
+<main style="padding: 20px;">
+  <div class="grid">
+    <div class="col-12">
+      <p-card>
+        <router-outlet></router-outlet>
+      </p-card>
+    </div>
+  </div>
+</main>

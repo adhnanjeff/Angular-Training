@@ -1,0 +1,70 @@
+nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: darkblue;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fcf760;
+}
+
+a.active {
+  color: orangered;
+  font-weight: bold;
+}
+
+/* PrimeNG component styling */
+:host {
+  display: block;
+  min-height: 100vh;
+}
+
+main {
+  padding: 20px;
+  background-color: #f8f9fa;
+  min-height: calc(100vh - 80px);
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.col-12 {
+  grid-column: span 12;
+}
+
+/* Sidebar styling */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+ul li a:hover {
+  background-color: #e9ecef;
+  text-decoration: none;
+}
+
+ul li a.active {
+  background-color: #007bff;
+  color: white;
+}

@@ -1,0 +1,65 @@
+.card {
+  padding: 2rem;
+  margin: 1rem;
+}
+
+.card h1 {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.card p {
+  color: var(--text-color-secondary);
+  margin-bottom: 2rem;
+}
+
+.loading-container {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text-color-secondary);
+}
+
+.error-container {
+  background-color: var(--red-50);
+  border: 1px solid var(--red-200);
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.error-message {
+  color: var(--red-700);
+  margin: 0;
+  font-weight: 500;
+}
+
+.description-text {
+  max-width: 300px;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+/* Responsive table */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+    margin: 0.5rem;
+  }
+  
+  .description-text {
+    max-width: 200px;
+  }
+  
+  .action-buttons {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+}
