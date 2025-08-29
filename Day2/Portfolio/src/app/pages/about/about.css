@@ -1,0 +1,196 @@
+.about {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 0 60px 0; /* offset for fixed navbar and footer */
+}
+
+/* Container */
+.about-content {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+/* Row: About Left + Right */
+.about-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 50px;
+}
+
+/* Left Side */
+.about-left {
+  flex: 1;
+}
+
+.about-left h2 span {
+  color: #f53838;
+}
+
+.about-left ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about-left li {
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.about-left .grade {
+  color: #f53838;
+  font-weight: 600;
+  background: rgba(255, 0, 0, 0.3);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+/* Right Side (Image) */
+.about-right {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.about-right img {
+  width: 100%;
+  max-width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  transition: box-shadow 0.3s ease;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+.about-right img:hover {
+  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(255, 0, 0, 0.3);
+}
+
+/* Skills Section */
+.skills {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.skills h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.skills hr {
+  width: 80px;
+  margin: 10px auto 30px;
+  border: 2px solid #f53838;
+  border-radius: 5px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.skill {
+  padding: 25px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  transition: box-shadow 0.3s ease;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+.skill:hover {
+  box-shadow: 0 12px 35px rgba(0,0,0,0.4), 0 0 40px rgba(255, 0, 0, 0.3);
+}
+
+.skill h2 {
+  color: #f53838;
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+}
+
+.skill p {
+  margin-top: 10px;
+  font-weight: 500;
+  color: #ccc;
+  line-height: 1.6;
+}
+/* Fade-in Animation */
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 1s ease, transform 1s ease;
+}
+
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .about {
+    padding: 100px 0 40px 0;
+  }
+  
+  .about-row {
+    flex-direction: column-reverse;
+    text-align: center;
+    gap: 30px;
+  }
+
+  .about-right img {
+    max-width: 280px;
+  }
+  
+  .skills-grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  .about-content {
+    padding: 20px 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-right img {
+    max-width: 220px;
+  }
+  
+  .about-left h2 {
+    font-size: 1.8rem;
+  }
+  
+  .skills h1 {
+    font-size: 1.6rem;
+  }
+}
+
+/*
+  The following styles will apply ONLY when the About page is active.
+  It targets the navbar elements to change their color.
+
+  NOTE: This uses `::ng-deep` to style elements outside of this component's view.
+  This is often needed for page-specific navbar styles. You may need to adjust
+  the selectors (e.g., `.navbar .logo`, `.navbar .nav-link`) to match your
+  navbar's HTML structure.
+*/
+:host ::ng-deep .navbar .logo,
+:host ::ng-deep .navbar .nav-link {
+  color: rgba(255, 0, 0, 0.3) !important;
+  transition: color 0.3s ease; /* Optional: for a smooth color transition */
+}

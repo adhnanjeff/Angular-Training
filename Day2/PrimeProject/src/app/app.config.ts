@@ -15,7 +15,7 @@ export const appConfig: ApplicationConfig = {
       theme: {
         preset: Lara,
         options: {
-          colorScheme: 'light-blue'   
+          colorScheme: 'dark-blue'   
         }
       }
     })

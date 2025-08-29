@@ -1,4 +1,4 @@
-@import "primeicons/primeicons.css";
+@import "primeicons/primeicons.css";  /* required for icons */
 @import "bootstrap-icons/font/bootstrap-icons.css";
 
 /* Global styles for PrimeNG components */
