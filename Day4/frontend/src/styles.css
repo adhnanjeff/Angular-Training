@@ -1,0 +1,23 @@
+@import "primeicons/primeicons.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+/* PrimeNG v20 Theme - Lara Light Blue */
+/* The theme is now configured in app.config.ts using the new theming system */
+
+/* Global styles for PrimeNG components */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* PrimeNG component base styles */
+.p-component {
+  font-family: inherit;
+}
+
+/* You can add global styles to this file, and also import other style files */

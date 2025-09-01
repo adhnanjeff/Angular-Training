@@ -1,0 +1,31 @@
+<!-- Hide navbar if on login page -->
+<p-menubar *ngIf="!hideNavbar()" [model]="menuItems">
+  <ng-template pTemplate="end">
+    <!-- Show Login if not logged in -->
+    <button 
+      *ngIf="!authService.isLoggedIn()"
+      pButton
+      type="button"
+      icon="pi pi-sign-in"
+      label="Login"
+      class="p-button-rounded p-button-outlined"
+      [routerLink]="['/login']">
+    </button>
+
+    <!-- Show Logout if logged in -->
+  @if (authService.isLoggedIn()) {
+    <button 
+      pButton
+      type="button"
+      icon="pi pi-sign-out"
+      label="Logout"
+      class="p-button-rounded p-button-outlined"
+      (click)="logout()">
+    </button>
+  }
+
+  </ng-template>
+</p-menubar>
+
+<!-- Page content -->
+<router-outlet></router-outlet>

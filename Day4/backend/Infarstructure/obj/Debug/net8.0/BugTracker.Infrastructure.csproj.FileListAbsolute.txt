@@ -1,0 +1,72 @@
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTrack.BF968350.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\refint\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\Infarstructure\obj\Debug\net8.0\ref\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTrack.BF968350.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\refint\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\Infarstructure\obj\Debug\net8.0\ref\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\refint\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTrack.BF968350.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\Infarstructure\obj\Debug\net8.0\ref\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.deps.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.runtimeconfig.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.sourcelink.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTrack.BF968350.Up2Date
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\refint\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\BugTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\Infarstructure\obj\Debug\net8.0\ref\BugTracker.Infrastructure.dll
