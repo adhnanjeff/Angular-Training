@@ -1,0 +1,17 @@
+<div class="dashboard-container">
+  <div class="welcome-section">
+    <h1>Welcome to Bug Dashboard</h1>
+    <p>Manage and track bugs efficiently</p>
+    <div class="user-info" *ngIf="userRole">
+      <span class="role-badge">Role: {{userRole}}</span>
+    </div>
+  </div>
+
+  <div class="quick-actions">
+    <div class="action-card">
+      <h3>Bug Management</h3>
+      <p>View and manage all bugs in the system</p>
+      <a routerLink="/bugs" class="action-btn">Go to Bugs</a>
+    </div>
+  </div>
+</div>

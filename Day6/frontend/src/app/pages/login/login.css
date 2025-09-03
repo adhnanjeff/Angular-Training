@@ -1,0 +1,92 @@
+/* Center the login box */
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card styling */
+.login-card {
+  background: #ffffff;
+  padding: 2.5rem;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+  width: 360px;
+  text-align: center;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+/* Title */
+.login-card h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+}
+
+/* Input fields */
+.form-group {
+  margin-bottom: 1.2rem;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.9rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.form-input:focus {
+  border-color: #667eea;
+  box-shadow: 0 0 8px rgba(102, 126, 234, 0.3);
+  outline: none;
+}
+
+/* Button */
+.login-btn {
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.login-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(118, 75, 162, 0.3);
+}
+
+.login-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+/* Message */
+.message {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #e63946;
+  font-weight: 500;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

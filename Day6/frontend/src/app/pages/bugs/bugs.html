@@ -1,0 +1,298 @@
+<div class="bug-management-container">
+  <!-- Header Section -->
+  <div class="page-header">
+    <div class="header-content">
+      <h1 class="page-title">
+        <i class="pi pi-bug"></i>
+        Bug Management System
+      </h1>
+      <p class="page-subtitle">Track, manage, and resolve bugs efficiently</p>
+    </div>
+  </div>
+
+  <!-- Search and Filter Section -->
+  <div class="search-filter-section">
+    <div class="search-filter-card">
+      <div class="filter-row">
+        <!-- Global Search -->
+        <div class="search-group">
+          <label class="filter-label">Search Bugs</label>
+          <span class="p-input-icon-left search-wrapper">
+            <i class="pi pi-search"></i>
+            <input 
+              pInputText 
+              type="text" 
+              [(ngModel)]="globalSearchValue"
+              (input)="onGlobalSearch()"
+              placeholder="Search by title or description..." 
+              class="global-search-input" />
+          </span>
+        </div>
+
+        <!-- Status Filter -->
+        <div class="filter-group">
+          <label class="filter-label">Status</label>
+          <p-select 
+            [(ngModel)]="selectedStatus" 
+            [options]="statuses" 
+            optionLabel="label" 
+            optionValue="value"
+            (onChange)="onStatusChange()"
+            placeholder="All Status"
+            class="filter-select">
+          </p-select>
+        </div>
+
+        <!-- Priority Filter -->
+        <div class="filter-group">
+          <label class="filter-label">Priority</label>
+          <p-select 
+            [(ngModel)]="selectedPriority" 
+            [options]="priorities" 
+            optionLabel="label" 
+            optionValue="value"
+            (onChange)="onPriorityChange()"
+            placeholder="All Priority"
+            class="filter-select">
+          </p-select>
+        </div>
+
+        <!-- Clear Filters Button -->
+        <div class="clear-filters-group">
+          <button 
+            pButton 
+            type="button" 
+            label="Clear Filters" 
+            icon="pi pi-filter-slash"
+            (click)="clearFilters()"
+            class="p-button-outlined clear-btn">
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Table Section -->
+  <div class="table-section">
+    <div class="table-card">
+      <div class="table-header-info">
+        <h3 class="table-title">
+          <i class="pi pi-list"></i>
+          Bug List
+        </h3>
+        <div class="results-info">
+          <span class="results-count">{{displayedBugs.length}} bugs found</span>
+        </div>
+      </div>
+
+      <p-table 
+        #dt
+        [value]="displayedBugs" 
+        [paginator]="true" 
+        [rows]="8" 
+        [showCurrentPageReport]="true"
+        currentPageReportTemplate="Showing {first} to {last} of {totalRecords} bugs"
+        [rowsPerPageOptions]="[5, 8, 10, 20]"
+        editMode="row"
+        dataKey="id"
+        styleClass="modern-table"
+        [sortField]="'id'"
+        [sortOrder]="1">
+
+        <ng-template pTemplate="header">
+          <tr>
+            <th pSortableColumn="id" class="id-column">
+              <div class="header-content">
+                ID <p-sortIcon field="id"></p-sortIcon>
+              </div>
+            </th>
+            <th pSortableColumn="title" class="title-column">
+              <div class="header-content">
+                Title <p-sortIcon field="title"></p-sortIcon>
+              </div>
+            </th>
+            <th pSortableColumn="description" class="description-column">
+              <div class="header-content">
+                Description <p-sortIcon field="description"></p-sortIcon>
+              </div>
+            </th>
+            <th pSortableColumn="status" class="status-column">
+              <div class="header-content">
+                Status <p-sortIcon field="status"></p-sortIcon>
+              </div>
+            </th>
+            <th pSortableColumn="priority" class="priority-column">
+              <div class="header-content">
+                Priority <p-sortIcon field="priority"></p-sortIcon>
+              </div>
+            </th>
+            <th pSortableColumn="createdDate" class="date-column">
+              <div class="header-content">
+                Created <p-sortIcon field="createdDate"></p-sortIcon>
+              </div>
+            </th>
+            <th class="actions-column">Actions</th>
+          </tr>
+        </ng-template>
+
+        <ng-template pTemplate="body" let-bug let-editing="editing" let-ri="rowIndex">
+          <tr [pEditableRow]="bug" class="table-row">
+            <td class="id-cell">
+              <span class="bug-id">#{{bug.id}}</span>
+            </td>
+            
+            <td class="title-cell">
+              <p-cellEditor>
+                <ng-template pTemplate="input">
+                  <input pInputText type="text" [(ngModel)]="bug.title" class="edit-input">
+                </ng-template>
+                <ng-template pTemplate="output">
+                  <span class="bug-title">{{bug.title}}</span>
+                </ng-template>
+              </p-cellEditor>
+            </td>
+            
+            <td class="description-cell">
+              <p-cellEditor>
+                <ng-template pTemplate="input">
+                  <textarea pInputText [(ngModel)]="bug.description" class="edit-textarea" rows="2"></textarea>
+                </ng-template>
+                <ng-template pTemplate="output">
+                  <span class="bug-description">{{bug.description}}</span>
+                </ng-template>
+              </p-cellEditor>
+            </td>
+            
+            <td class="status-cell">
+              <p-cellEditor>
+                <ng-template pTemplate="input">
+                  <p-select 
+                    [(ngModel)]="bug.status" 
+                    [options]="statuses.slice(1)" 
+                    optionLabel="label" 
+                    optionValue="value"
+                    class="edit-select">
+                  </p-select>
+                </ng-template>
+                <ng-template pTemplate="output">
+                  <p-tag [severity]="getSeverity(bug.status)" class="status-tag">
+                    {{bug.status}}
+                  </p-tag>
+                </ng-template>
+              </p-cellEditor>
+            </td>
+            
+            <td class="priority-cell">
+              <p-cellEditor>
+                <ng-template pTemplate="input">
+                  <p-select 
+                    [(ngModel)]="bug.priority" 
+                    [options]="priorities.slice(1)" 
+                    optionLabel="label" 
+                    optionValue="value"
+                    class="edit-select">
+                  </p-select>
+                </ng-template>
+                <ng-template pTemplate="output">
+                  <p-tag [severity]="getPrioritySeverity(bug.priority)" class="priority-tag">
+                    {{bug.priority}}
+                  </p-tag>
+                </ng-template>
+              </p-cellEditor>
+            </td>
+            
+            <td class="date-cell">
+              <span class="created-date">{{bug.createdDate | date:'dd/MM/yyyy'}}</span>
+            </td>
+            
+            <td class="actions-cell">
+              <div class="action-buttons">
+                <button 
+                  *ngIf="!editing" 
+                  pButton 
+                  pRipple 
+                  type="button" 
+                  pInitEditableRow 
+                  icon="pi pi-pencil" 
+                  (click)="onRowEditInit(bug)" 
+                  class="p-button-rounded p-button-text p-button-success action-btn"
+                  pTooltip="Edit Bug"
+                  tooltipPosition="top">
+                </button>
+                
+                <button 
+                  *ngIf="editing" 
+                  pButton 
+                  pRipple 
+                  type="button" 
+                  pSaveEditableRow 
+                  icon="pi pi-check" 
+                  (click)="onRowEditSave(bug)" 
+                  class="p-button-rounded p-button-text p-button-success action-btn"
+                  pTooltip="Save Changes"
+                  tooltipPosition="top">
+                </button>
+                
+                <button 
+                  *ngIf="editing" 
+                  pButton 
+                  pRipple 
+                  type="button" 
+                  pCancelEditableRow 
+                  icon="pi pi-times" 
+                  (click)="onRowEditCancel(bug, ri)" 
+                  class="p-button-rounded p-button-text p-button-warning action-btn"
+                  pTooltip="Cancel Edit"
+                  tooltipPosition="top">
+                </button>
+                
+                <button 
+                  *ngIf="!editing"
+                  pButton 
+                  pRipple 
+                  type="button" 
+                  icon="pi pi-trash" 
+                  (click)="deleteBug(bug)" 
+                  class="p-button-rounded p-button-text p-button-danger action-btn"
+                  pTooltip="Delete Bug"
+                  tooltipPosition="top">
+                </button>
+              </div>
+            </td>
+          </tr>
+        </ng-template>
+
+        <ng-template pTemplate="emptymessage">
+          <tr>
+            <td colspan="7" class="empty-state">
+              <div class="empty-content">
+                <i class="pi pi-search empty-icon"></i>
+                <h4>No bugs found</h4>
+                <p>Try adjusting your search criteria or filters</p>
+                <button pButton type="button" label="Clear All Filters" (click)="clearFilters()" class="p-button-outlined"></button>
+              </div>
+            </td>
+          </tr>
+        </ng-template>
+
+        <ng-template pTemplate="paginatorleft">
+          <div class="pagination-info">
+            <i class="pi pi-info-circle"></i>
+            <span>Total: {{displayedBugs.length}} bugs</span>
+          </div>
+        </ng-template>
+      </p-table>
+    </div>
+  </div>
+</div>
+
+<p-confirmDialog 
+  [style]="{width: '450px'}"
+  [baseZIndex]="10000"
+  rejectButtonStyleClass="p-button-text">
+</p-confirmDialog>
+
+<p-toast 
+  position="top-right"
+  [baseZIndex]="5000">
+</p-toast>
