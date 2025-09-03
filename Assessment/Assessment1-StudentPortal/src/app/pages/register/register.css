@@ -1,0 +1,74 @@
+.register-wrapper {
+  max-width: 720px;
+  margin: 24px auto;
+  padding: 16px;
+}
+
+.title {
+  margin: 0 0 16px 0;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+input, select {
+  padding: 10px 12px;
+  border: 1px solid #c9c9c9;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+input.ng-touched.ng-invalid,
+select.ng-touched.ng-invalid {
+  border-color: #e53935;
+  background: #fff6f6;
+}
+
+.error {
+  color: #e53935;
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.actions {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+button[type="submit"] {
+  padding: 10px 16px;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button[disabled] {
+  background: #90caf9;
+  cursor: not-allowed;
+}
+
+@media (max-width: 640px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

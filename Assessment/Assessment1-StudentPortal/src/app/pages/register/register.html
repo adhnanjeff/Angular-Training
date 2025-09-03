@@ -1,0 +1,48 @@
+<div class="register-wrapper">
+  <h2 class="title">Student Registration</h2>
+
+  <form [formGroup]="form" (ngSubmit)="submit()" novalidate class="form-grid">
+    <div class="form-field">
+      <label for="name">Name</label>
+      <input id="name" type="text" formControlName="name" placeholder="Enter full name" />
+      <div class="error" *ngIf="form.controls['name'].touched && form.controls['name'].invalid">
+        <span *ngIf="form.controls['name'].errors?.['required']">Name is required.</span>
+        <span *ngIf="form.controls['name'].errors?.['minlength']">Name must be at least 3 characters.</span>
+      </div>
+    </div>
+
+    <div class="form-field">
+      <label for="email">Email</label>
+      <input id="email" type="email" formControlName="email" placeholder="name@example.com" />
+      <div class="error" *ngIf="form.controls['email'].touched && form.controls['email'].invalid">
+        <span *ngIf="form.controls['email'].errors?.['required']">Email is required.</span>
+        <span *ngIf="form.controls['email'].errors?.['email']">Enter a valid email address.</span>
+      </div>
+    </div>
+
+    <div class="form-field">
+      <label for="age">Age</label>
+      <input id="age" type="number" formControlName="age" placeholder="18" />
+      <div class="error" *ngIf="form.controls['age'].touched && form.controls['age'].invalid">
+        <span *ngIf="form.controls['age'].errors?.['required']">Age is required.</span>
+        <span *ngIf="form.controls['age'].errors?.['min']">Minimum age is 16.</span>
+        <span *ngIf="form.controls['age'].errors?.['max']">Maximum age is 45.</span>
+      </div>
+    </div>
+
+    <div class="form-field">
+      <label for="department">Department</label>
+      <select id="department" formControlName="department">
+        <option value="" disabled selected>Select a department</option>
+        <option *ngFor="let d of departments" [value]="d">{{ d }}</option>
+      </select>
+      <div class="error" *ngIf="form.controls['department'].touched && form.controls['department'].invalid">
+        <span *ngIf="form.controls['department'].errors?.['required']">Department is required.</span>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button type="submit" [disabled]="form.invalid">Register</button>
+    </div>
+  </form>
+</div>

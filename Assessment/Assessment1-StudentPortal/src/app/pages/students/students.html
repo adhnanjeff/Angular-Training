@@ -1,0 +1,71 @@
+<div class="students-wrapper">
+  <h2 class="title">Students</h2>
+
+  <p-table [value]="students()" dataKey="id" (onRowSelect)="onRowSelect($event)" selectionMode="single">
+    <ng-template pTemplate="header">
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Age</th>
+        <th>Department</th>
+      </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-student>
+      <tr [pSelectableRow]="student">
+        <td>{{ student.name }}</td>
+        <td>{{ student.email }}</td>
+        <td>{{ student.age }}</td>
+        <td>{{ student.department }}</td>
+      </tr>
+    </ng-template>
+  </p-table>
+
+  <p-dialog header="Edit Student" [visible]="displayDialog()" (visibleChange)="displayDialog.set($event)" [modal]="true" [style]="{width: '420px'}" [draggable]="false">
+    <form [formGroup]="editForm" (ngSubmit)="save()" class="dialog-form" novalidate>
+      <input type="hidden" formControlName="id" />
+
+      <div class="form-field">
+        <label for="name">Name</label>
+        <input id="name" pInputText type="text" formControlName="name" />
+        <div class="error" *ngIf="editForm.controls['name'].touched && editForm.controls['name'].invalid">
+          <span *ngIf="editForm.controls['name'].errors?.['required']">Name is required.</span>
+          <span *ngIf="editForm.controls['name'].errors?.['minlength']">Name must be at least 3 characters.</span>
+        </div>
+      </div>
+
+      <div class="form-field">
+        <label for="email">Email</label>
+        <input id="email" pInputText type="email" formControlName="email" />
+        <div class="error" *ngIf="editForm.controls['email'].touched && editForm.controls['email'].invalid">
+          <span *ngIf="editForm.controls['email'].errors?.['required']">Email is required.</span>
+          <span *ngIf="editForm.controls['email'].errors?.['email']">Enter a valid email address.</span>
+        </div>
+      </div>
+
+      <div class="form-field">
+        <label for="age">Age</label>
+        <input id="age" pInputText type="number" formControlName="age" />
+        <div class="error" *ngIf="editForm.controls['age'].touched && editForm.controls['age'].invalid">
+          <span *ngIf="editForm.controls['age'].errors?.['required']">Age is required.</span>
+          <span *ngIf="editForm.controls['age'].errors?.['min']">Minimum age is 16.</span>
+          <span *ngIf="editForm.controls['age'].errors?.['max']">Maximum age is 45.</span>
+        </div>
+      </div>
+
+      <div class="form-field">
+        <label for="department">Department</label>
+        <select id="department" formControlName="department">
+          <option *ngFor="let opt of departmentsOptions" [value]="opt.value">{{ opt.label }}</option>
+        </select>
+        <div class="error" *ngIf="editForm.controls['department'].touched && editForm.controls['department'].invalid">
+          <span *ngIf="editForm.controls['department'].errors?.['required']">Department is required.</span>
+        </div>
+      </div>
+
+      <div class="dialog-actions">
+        <button pButton type="button" label="Cancel" class="p-button-text" (click)="cancel()"></button>
+        <button pButton type="submit" label="Save" [disabled]="editForm.invalid"></button>
+      </div>
+    </form>
+  </p-dialog>
+</div>

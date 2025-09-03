@@ -1,0 +1,12 @@
+<div class="app-container">
+  <nav class="navbar">
+    <div class="nav-brand">{{title()}}</div>
+    <div class="nav-links">
+      <a routerLink="/register" routerLinkActive="active">Register</a>
+      <a routerLink="/students" routerLinkActive="active">Students</a>
+    </div>
+  </nav>
+  <main>
+    <router-outlet></router-outlet>
+  </main>
+</div>
