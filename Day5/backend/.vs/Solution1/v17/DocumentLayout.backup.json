@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\controllers\\bugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5195097-2C94-42FC-873D-81F58C1AB5F5}|Infarstructure\\BugTracker.Infrastructure.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\infarstructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5195097-2C94-42FC-873D-81F58C1AB5F5}|Infarstructure\\BugTracker.Infrastructure.csproj|solutionrelative:infarstructure\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C6B3BC-B925-4CB1-90AD-5653ACBAD744}|Application\\BugTracker.Application.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C6B3BC-B925-4CB1-90AD-5653ACBAD744}|Application\\BugTracker.Application.csproj|solutionrelative:application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C6B3BC-B925-4CB1-90AD-5653ACBAD744}|Application\\BugTracker.Application.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\application\\services\\bugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C6B3BC-B925-4CB1-90AD-5653ACBAD744}|Application\\BugTracker.Application.csproj|solutionrelative:application\\services\\bugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5195097-2C94-42FC-873D-81F58C1AB5F5}|Infarstructure\\BugTracker.Infrastructure.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\infarstructure\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5195097-2C94-42FC-873D-81F58C1AB5F5}|Infarstructure\\BugTracker.Infrastructure.csproj|solutionrelative:infarstructure\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\interfaces\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\interfaces\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\interfaces\\ibugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\interfaces\\ibugservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\interfaces\\iprojectrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\interfaces\\iprojectrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05136A-C746-4783-863B-8AAB5FE00230}|BugTracker.API\\BugTracker.API.csproj|solutionrelative:bugtracker.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\views\\bugview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\views\\bugview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\views\\bugview\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\views\\bugview\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\controllers\\bugviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\controllers\\bugviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\models\\bugviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\models\\bugviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\bugtracker.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A2BEA5-9EAE-4F97-8C2F-C10EDBF13641}|BugTracker.MVC\\BugTracker.MVC.csproj|solutionrelative:bugtracker.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\entities\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\entities\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|c:\\users\\adhnjeff\\onedrive - eps us, llc\\desktop\\angular\\day5\\backend\\core\\dtos\\bugresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61AA5C2-1241-4460-9A82-6883C185C077}|Core\\BugTracker.Core.csproj|solutionrelative:core\\dtos\\bugresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BugTracker.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:06:06.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BugService.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Application\\Services\\BugService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\BugService.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Application\\Services\\BugService.cs",
+              "RelativeToolTip": "Application\\Services\\BugService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:51:14.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:56:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BugTracker.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\appsettings.json",
+              "RelativeToolTip": "BugTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T04:59:27.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "BugTracker.API\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:38:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BugController.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\BugController.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Controllers\\BugController.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Controllers\\BugController.cs",
+              "RelativeToolTip": "BugTracker.API\\Controllers\\BugController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:04:28.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Program.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Program.cs",
+              "RelativeToolTip": "BugTracker.API\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:22:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\AuthResponseDTO.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\AuthResponseDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:05:29.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBugRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IBugRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IBugRepository.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IBugRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IBugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:55:24.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:05:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:56:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBugService.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IBugService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IBugService.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IBugService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IBugService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:55:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProjectRepsoitory.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IProjectRepsoitory.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IProjectRepsoitory.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Interfaces\\IProjectRepsoitory.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IProjectRepsoitory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:56:02.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Infarstructure\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Infarstructure\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Infarstructure\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Infarstructure\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:36:32.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Application\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Application\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Application\\Services\\ProjectService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:37:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BugRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Infarstructure\\Repositories\\BugRepository.cs",
+              "RelativeDocumentMoniker": "Infarstructure\\Repositories\\BugRepository.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Infarstructure\\Repositories\\BugRepository.cs",
+              "RelativeToolTip": "Infarstructure\\Repositories\\BugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:57:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\ErrorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\ErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:39:10.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:12:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "BugTracker.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIBJwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:14:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:12:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:11:55.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:55:42.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "BugTracker.API\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.API\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "BugTracker.API\\Extensions\\ExceptionMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:46:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:06:30.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BugViewController.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Controllers\\BugViewController.cs",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Controllers\\BugViewController.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Controllers\\BugViewController.cs",
+              "RelativeToolTip": "BugTracker.MVC\\Controllers\\BugViewController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAABZwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:02:51.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bug.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Entities\\Bug.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Bug.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\Entities\\Bug.cs",
+              "RelativeToolTip": "Core\\Entities\\Bug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:01:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BugResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\BugResponseDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\BugResponseDTO.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\Core\\DTOs\\BugResponseDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\BugResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:01:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\BugView\\Details.cshtml",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Views\\BugView\\Details.cshtml",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\BugView\\Details.cshtml",
+              "RelativeToolTip": "BugTracker.MVC\\Views\\BugView\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:32:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\BugView\\Index.cshtml",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Views\\BugView\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\BugView\\Index.cshtml",
+              "RelativeToolTip": "BugTracker.MVC\\Views\\BugView\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:31:17.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BugTracker.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T05:28:51.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BugTracker.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T05:15:27.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BugViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Models\\BugViewModel.cs",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Models\\BugViewModel.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Models\\BugViewModel.cs",
+              "RelativeToolTip": "BugTracker.MVC\\Models\\BugViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:01:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Program.cs",
+              "RelativeToolTip": "BugTracker.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:51:17.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BugTracker.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\adhnjeff\\OneDrive - EPS US, LLC\\Desktop\\Angular\\Day5\\backend\\BugTracker.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BugTracker.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:50:38.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.runtime.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.exe
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\scopedcss\bundle\BugTracker.MVC.styles.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\scopedcss\projectbundle\BugTracker.MVC.bundle.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTrack.08F9E7D1.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\refint\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day19\BugTracker-MVC\BugTracker.MVC\obj\Debug\net8.0\ref\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.runtime.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.exe
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\scopedcss\bundle\BugTracker.MVC.styles.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\scopedcss\projectbundle\BugTracker.MVC.bundle.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTrack.08F9E7D1.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\refint\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day20\BugTracker-ExceptionHandling\BugTracker.MVC\obj\Debug\net8.0\ref\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cs
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.sourcelink.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\refint\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.runtime.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.exe
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.deps.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.runtimeconfig.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\scopedcss\bundle\BugTracker.MVC.styles.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\scopedcss\projectbundle\BugTracker.MVC.bundle.scp.css
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTrack.08F9E7D1.Up2Date
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.genruntimeconfig.cache
+C:\Users\adhnjeff\source\repos\DontnetTraining\Day21\BugTracker-Auth\BugTracker.MVC\obj\Debug\net8.0\ref\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.runtime.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.endpoints.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.exe
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.deps.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.runtimeconfig.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfo.cs
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cs
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.sourcelink.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\bundle\BugTracker.MVC.styles.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\projectbundle\BugTracker.MVC.bundle.scp.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTrack.08F9E7D1.Up2Date
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\refint\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.genruntimeconfig.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day4\backend\BugTracker.MVC\obj\Debug\net8.0\ref\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.endpoints.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.staticwebassets.runtime.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.exe
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.deps.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.runtimeconfig.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Application.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Core.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\bin\Debug\net8.0\BugTracker.Infrastructure.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.AssemblyReference.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfoInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.AssemblyInfo.cs
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.csproj.CoreCompileInputs.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.RazorAssemblyInfo.cs
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.sourcelink.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\bundle\BugTracker.MVC.styles.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\scopedcss\projectbundle\BugTracker.MVC.bundle.scp.css
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTrack.08F9E7D1.Up2Date
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\refint\BugTracker.MVC.dll
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.pdb
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\BugTracker.MVC.genruntimeconfig.cache
+C:\Users\adhnjeff\OneDrive - EPS US, LLC\Desktop\Angular\Day5\backend\BugTracker.MVC\obj\Debug\net8.0\ref\BugTracker.MVC.dll
