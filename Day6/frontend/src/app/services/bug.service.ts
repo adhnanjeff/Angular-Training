@@ -14,7 +14,7 @@ export interface Bug {
 
 @Injectable({ providedIn: "root" })
 export class BugService {
-  private apiUrl = "https://localhost:7028/api/Bug/sync";
+  private apiUrl = "https://localhost:7028/api/Bug/async";
 
   constructor(private http: HttpClient) {}
 
