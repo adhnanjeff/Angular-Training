@@ -1,0 +1,135 @@
+<div class="dashboard-container">
+  <div class="welcome-section">
+    <h1>Bug Tracker Dashboard</h1>
+    <p>Monitor and manage your bug tracking system</p>
+    <div class="user-info" *ngIf="userRole">
+      <span class="role-badge">{{userRole}}</span>
+    </div>
+  </div>
+
+  <div class="bento-grid">
+    <!-- Bug Analytics Card -->
+    <div class="analytics-card bento-item-large">
+      <div class="card-header">
+        <h3>Bug Analytics</h3>
+        <div class="card-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="m9 12 2 2 4-4"/>
+            <path d="M21 12c.552 0 1.005-.449.95-.998a10 10 0 0 0-8.953-8.951c-.55-.055-.998.398-.998.95v8a1 1 0 0 0 1 1z"/>
+            <path d="M21 12A9 9 0 1 1 12 3"/>
+          </svg>
+        </div>
+      </div>
+      
+      <div class="analytics-grid">
+        <div class="stat-item">
+          <div class="stat-number">{{bugAnalytics.totalActiveBugs}}</div>
+          <div class="stat-label">Active Bugs</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{{bugAnalytics.bugsClosedThisMonth}}</div>
+          <div class="stat-label">Closed This Month</div>
+        </div>
+        <div class="stat-item critical">
+          <div class="stat-number">{{bugAnalytics.importantBugsCount}}</div>
+          <div class="stat-label">Critical Bugs</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{{bugAnalytics.totalBugs}}</div>
+          <div class="stat-label">Total Bugs</div>
+        </div>
+      </div>
+
+      <div class="priority-breakdown">
+        <h4>Priority Breakdown</h4>
+        <div class="priority-bars">
+          <div class="priority-item">
+            <span class="priority-label high">High</span>
+            <div class="priority-bar">
+              <div class="priority-fill high" [style.width.%]="bugAnalytics.totalBugs > 0 ? (bugAnalytics.highPriorityBugs / bugAnalytics.totalBugs) * 100 : 0"></div>
+            </div>
+            <span class="priority-count">{{bugAnalytics.highPriorityBugs}}</span>
+          </div>
+          <div class="priority-item">
+            <span class="priority-label medium">Medium</span>
+            <div class="priority-bar">
+              <div class="priority-fill medium" [style.width.%]="bugAnalytics.totalBugs > 0 ? (bugAnalytics.mediumPriorityBugs / bugAnalytics.totalBugs) * 100 : 0"></div>
+            </div>
+            <span class="priority-count">{{bugAnalytics.mediumPriorityBugs}}</span>
+          </div>
+          <div class="priority-item">
+            <span class="priority-label low">Low</span>
+            <div class="priority-bar">
+              <div class="priority-fill low" [style.width.%]="bugAnalytics.totalBugs > 0 ? (bugAnalytics.lowPriorityBugs / bugAnalytics.totalBugs) * 100 : 0"></div>
+            </div>
+            <span class="priority-count">{{bugAnalytics.lowPriorityBugs}}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-action">
+        <a routerLink="/bugs" class="view-bugs-btn">
+          <span>View All Bugs</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="m9 18 6-6-6-6"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="quick-action-card bento-item">
+      <div class="card-header">
+        <h3>Quick Actions</h3>
+        <div class="card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 5v14m-7-7h14"/>
+          </svg>
+        </div>
+      </div>
+      <div class="action-buttons">
+        <button class="action-btn primary">Report Bug</button>
+        <button class="action-btn secondary">View Reports</button>
+      </div>
+    </div>
+
+    <!-- System Status -->
+    <div class="status-card bento-item">
+      <div class="card-header">
+        <h3>System Status</h3>
+        <div class="status-indicator active"></div>
+      </div>
+      <div class="status-content">
+        <p class="status-text">All systems operational</p>
+        <div class="uptime">99.9% uptime</div>
+      </div>
+    </div>
+
+    <!-- Recent Activity -->
+    <div class="activity-card bento-item">
+      <div class="card-header">
+        <h3>Recent Activity</h3>
+        <div class="card-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/>
+            <polyline points="12,6 12,12 16,14"/>
+          </svg>
+        </div>
+      </div>
+      <div class="activity-list">
+        <div class="activity-item">
+          <div class="activity-dot"></div>
+          <span>Bug #123 resolved</span>
+        </div>
+        <div class="activity-item">
+          <div class="activity-dot"></div>
+          <span>New bug reported</span>
+        </div>
+        <div class="activity-item">
+          <div class="activity-dot"></div>
+          <span>Priority updated</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
