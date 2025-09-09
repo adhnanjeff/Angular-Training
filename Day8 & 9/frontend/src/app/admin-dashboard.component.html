@@ -1,0 +1,223 @@
+<div class="admin-dashboard-container">
+  <div class="dashboard-header">
+    <h1>Admin Dashboard</h1>
+    <p>Comprehensive bug tracking analytics and insights</p>
+  </div>
+
+  <div class="charts-grid" *ngIf="Stats">
+    <!-- Open vs Resolved Chart -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>Open vs Resolved Bugs</h3>
+        <div class="chart-stats">
+          <span class="stat-item">
+            <span class="stat-label">Open:</span>
+            <span class="stat-value open">{{Stats.openVsResolved.open}}</span>
+          </span>
+          <span class="stat-item">
+            <span class="stat-label">Resolved:</span>
+            <span class="stat-value resolved">{{Stats.openVsResolved.resolved}}</span>
+          </span>
+        </div>
+      </div>
+      <div class="chart-container" *ngIf="openResolvedData">
+        <p-chart 
+          type="pie" 
+          [data]="openResolvedData" 
+          width="100%" 
+          height="300px">
+        </p-chart>
+      </div>
+    </div>
+
+    <!-- Bugs by Project Chart -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>Bugs by Project</h3>
+        <div class="chart-stats">
+          <span class="total-projects">{{Object.keys(Stats.bugsByProject).length}} Projects</span>
+        </div>
+      </div>
+      <div class="chart-container" *ngIf="bugsByProjectData">
+        <p-chart 
+          type="doughnut" 
+          [data]="bugsByProjectData" 
+          width="100%" 
+          height="300px">
+        </p-chart>
+      </div>
+    </div>
+
+    <!-- Bugs by Status Chart -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>Bugs by Status</h3>
+        <div class="chart-stats">
+          <span class="total-statuses">{{Object.keys(Stats.bugsByStatus).length}} Status Types</span>
+        </div>
+      </div>
+      <div class="chart-container" *ngIf="bugsByStatusData">
+        <p-chart 
+          type="bar" 
+          [data]="bugsByStatusData" 
+          width="100%" 
+          height="300px">
+        </p-chart>
+      </div>
+    </div>
+  </div>
+
+  <div class="loading-state" *ngIf="!Stats">
+    <div class="loading-spinner">
+      <i class="pi pi-spin pi-spinner"></i>
+      <p>Loading dashboard data...</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.admin-dashboard-container {
+  padding: 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  min-height: 100vh;
+}
+
+.dashboard-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.dashboard-header h1 {
+  color: #2c3e50;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.dashboard-header p {
+  color: #7f8c8d;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.chart-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.chart-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+.chart-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1.5rem;
+}
+
+.chart-header h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.chart-stats {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+}
+
+.stat-label {
+  opacity: 0.9;
+}
+
+.stat-value {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.stat-value.open {
+  color: #ffd700;
+}
+
+.stat-value.resolved {
+  color: #90ee90;
+}
+
+.total-projects, .total-statuses {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.chart-container {
+  padding: 2rem;
+  height: 350px;
+}
+
+.loading-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.loading-spinner {
+  text-align: center;
+  color: #7f8c8d;
+}
+
+.loading-spinner i {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #667eea;
+}
+
+.loading-spinner p {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .charts-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .chart-card {
+    margin: 0 1rem;
+  }
+  
+  .admin-dashboard-container {
+    padding: 1rem;
+  }
+  
+  .dashboard-header h1 {
+    font-size: 2rem;
+  }
+}
+</style>
