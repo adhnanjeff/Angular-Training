@@ -1,0 +1,17 @@
+<div>
+  <nav *ngIf="isLoggedIn" class="navbar">
+    <div class="nav-brand">
+      <h2>{{title}}</h2>
+    </div>
+    <div class="nav-links">
+      <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
+      <a *ngIf="canAccessBugs" routerLink="/bugs" routerLinkActive="active">Bugs</a>
+      <button (click)="logout()" class="logout-btn">Logout</button>
+    </div>
+  </nav>
+  <main [class.with-nav]="isLoggedIn">
+    <router-outlet></router-outlet>
+  </main>
+</div>
+
+<p-toast position="top-right" [baseZIndex]="5000"></p-toast>

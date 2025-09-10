@@ -1,0 +1,48 @@
+<div class="login-container">
+    <div class="login-card">
+        <div class="card-header">
+            <h1>{{isRegisterMode ? 'Register' : 'Login'}}</h1>
+            <p>{{isRegisterMode ? 'Create a new account' : 'Welcome back'}}</p>
+        </div>
+
+        <!-- Login Form -->
+        <form *ngIf="!isRegisterMode" (ngSubmit)="login()">
+            <div class="form-group">
+                <input type="text" [(ngModel)]="loginData.username" name="username" placeholder="Username" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <input type="password" [(ngModel)]="loginData.password" name="password" placeholder="Password" class="form-input" required>
+            </div>
+            <button type="submit" class="auth-btn" [disabled]="isLoading">
+                {{isLoading ? 'Logging in...' : 'Login'}}
+            </button>
+        </form>
+
+        <!-- Register Form -->
+        <form *ngIf="isRegisterMode" (ngSubmit)="register()">
+            <div class="form-group">
+                <input type="text" [(ngModel)]="registerData.username" name="regUsername" placeholder="Username" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <input type="password" [(ngModel)]="registerData.password" name="regPassword" placeholder="Password" class="form-input" required>
+            </div>
+            <div class="form-group">
+                <select [(ngModel)]="registerData.role" name="role" class="form-select" required>
+                    <option *ngFor="let role of roles" [value]="role">{{role}}</option>
+                </select>
+            </div>
+            <button type="submit" class="auth-btn" [disabled]="isLoading">
+                {{isLoading ? 'Creating Account...' : 'Register'}}
+            </button>
+        </form>
+
+        <p class="message" *ngIf="message" [class.success]="message.includes('successful')">{{message}}</p>
+        
+        <div class="toggle-mode">
+            <p>{{isRegisterMode ? 'Already have an account?' : "Don't have an account?"}}</p>
+            <button type="button" class="toggle-btn" (click)="toggleMode()">
+                {{isRegisterMode ? 'Login' : 'Register'}}
+            </button>
+        </div>
+    </div>
+</div>

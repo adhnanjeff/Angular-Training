@@ -1,0 +1,12 @@
+# Visual Studio junk
+.vs/
+*.vsidx
+*.suo
+*.user
+*.cache
+*.db
+*.pdb
+
+# Build artifacts
+bin/
+obj/
